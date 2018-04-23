@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "scripts": {
+    "standard-version": "standard-version"
+  },
   "dependencies": {
     "standard-version": "^4.3.0"
   },
